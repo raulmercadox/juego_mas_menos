@@ -1,0 +1,8 @@
+.contenedor {
+    width:1200px;
+    margin: 0 auto;
+}
+.frutas {
+    display:flex;
+    justify-content: space-between;
+}

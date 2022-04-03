@@ -1,0 +1,9 @@
+.contenedorMensaje {
+    margin-top: 2rem;
+}
+.mensaje {
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: blue;
+}
