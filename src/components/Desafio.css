@@ -1,0 +1,41 @@
+.contenedorBoton {
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 1.5rem;
+}
+.boton {
+    display:flex;
+    width: 200px;
+    height: 150px;
+    background-color: rgb(29, 60, 126);
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+    align-items: center;
+    cursor: pointer;
+}
+.correcto {
+    background-color: green;
+    color: white;
+}
+.incorrecto {
+    background-color: red;
+    color: white;
+}
+.respuesta {
+    margin-top: 2rem;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.respuestaCorrecta{
+    color: green;
+}
+
+.respuestaIncorrecta {
+    color: red;
+}
+
+.vinculo {
+    font-size: 1.5rem;
+}
